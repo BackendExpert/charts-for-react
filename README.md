@@ -14,7 +14,7 @@ Install the package using npm or yarn:
 
 ```bash
 
-npm install react-pie-chart-component
+npm install charts-for-react
 
 ```
 
