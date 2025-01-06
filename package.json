@@ -1,0 +1,29 @@
+{
+  "name": "charts-for-react",
+  "version": "1.0.0",
+  "description": "All Kind of Data Charts for ReactJS supported with Vite",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "chart.js": "^4.0.1",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.0",
+    "@babel/preset-react": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "vite": "^4.0.0"
+  },  
+  "keywords": [
+    "React",
+    "Charts",
+    "2025",
+    "Vite"
+  ],
+  "author": "jehankandy",
+  "license": "ISC"
+}
