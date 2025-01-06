@@ -44,6 +44,12 @@ export default HomePage
 
 ```
 
+## sad
+
+| Chart | Prop | Type | Description | Required | 
+|------|------|------|------|------|
+
+
 
 ## Example ScreenShorts
 
