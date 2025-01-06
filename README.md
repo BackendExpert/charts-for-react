@@ -57,3 +57,7 @@ export default HomePage
 <center>
     <img src='https://github.com/BackendExpert/charts-for-react/blob/master/assest/piechart.PNG'>
 </center>
+
+### License
+
+This package is licensed under the MIT License.
