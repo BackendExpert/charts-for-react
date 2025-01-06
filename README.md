@@ -48,5 +48,5 @@ export default HomePage
 ## Example ScreenShorts
 
 <center>
-    <img src=''>
+    <img src='https://github.com/BackendExpert/charts-for-react/blob/master/assest/piechart.PNG'>
 </center>
