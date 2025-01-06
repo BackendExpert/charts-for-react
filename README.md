@@ -1,4 +1,4 @@
-# Charts for ReactJS
+# React-Vite-Charts
 
 A simple and reusable React Charts built with `react-chartjs-2` and `Chart.js`. Customize your charts with dynamic data and colors!
 
@@ -14,7 +14,7 @@ Install the package using npm or yarn:
 
 ```bash
 
-npm install charts-for-react
+npm install react-vite-charts
 
 ```
 
@@ -22,7 +22,7 @@ npm install charts-for-react
 
 ```js
 
-import PieChart from 'charts-for-react';
+import PieChart from 'react-vite-charts';
 import React from 'react'
 
 const HomePage = () => {
