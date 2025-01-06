@@ -18,3 +18,35 @@ npm install react-pie-chart-component
 
 ```
 
+## Example
+
+```js
+
+import PieChart from 'charts-for-react';
+import React from 'react'
+
+const HomePage = () => {
+    const chartData = {
+        React: {value: 20, color: '#61DAFB'},
+        Vite: {value: 20, color: '#646CFF'},
+        Tailwindcss: {value: 60, color: '#38BDF8'},
+    };
+  return (
+    <div>
+        <div className="md:grid grid-cols-3">
+            <PieChart data={chartData}/>
+        </div>
+    </div>
+  )
+}
+
+export default HomePage
+
+```
+
+
+## Example ScreenShorts
+
+<center>
+    <img src=''>
+</center>
