@@ -1,6 +1,6 @@
 {
   "name": "react-vite-charts",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "All Kind of Data Charts for ReactJS supported with Vite",
   "main": "src/index.js",
   "scripts": {
