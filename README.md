@@ -50,8 +50,8 @@ export default HomePage
 
 ```js
 
-import BarChart from 'react-vite-charts';
 import React from 'react'
+import { BarChart } from 'react-vite-charts';
 
 const HomePage = () => {
     const chartData = {
@@ -71,6 +71,7 @@ const HomePage = () => {
 }
 
 export default HomePage
+
 
 ```
 
