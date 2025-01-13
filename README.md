@@ -55,9 +55,11 @@ import React from 'react'
 
 const HomePage = () => {
     const chartData = {
-        React: {value: 20, color: '#61DAFB'},
+        React: {value: 40, color: '#61DAFB'},
         Vite: {value: 20, color: '#646CFF'},
         Tailwindcss: {value: 60, color: '#38BDF8'},
+        Html: {value: 68, color: '#FFA500'},
+        CSS: {value: 85, color: '#008000'},
     };
   return (
     <div>
@@ -86,6 +88,10 @@ export default HomePage
 <center>
     <img src='https://github.com/BackendExpert/charts-for-react/blob/master/assest/piechart.PNG'>
 </center>
+<center>
+    <img src='https://github.com/BackendExpert/charts-for-react/blob/v200/assest/BarChart.PNG'>
+</center>
+
 
 ### License
 
