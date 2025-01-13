@@ -80,7 +80,6 @@ export default HomePage
 | Chart | Prop | Type | Description | Required | 
 |------|------|------|------|------|
 | Pie Chart | `data` | `object` | An object containing chart data and colors. The keys represent labels, and each key has a `value` and `color` | Yes |
-
 | Bar Chart | `data` | `object` | An object containing chart data and colors. The keys represent labels, and each key has a `value` and `color` | Yes |
 
 
