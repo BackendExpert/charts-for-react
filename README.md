@@ -20,6 +20,8 @@ npm install react-vite-charts
 
 ## Example
 
+- PieChart
+
 ```js
 
 import PieChart from 'react-vite-charts';
@@ -43,6 +45,33 @@ const HomePage = () => {
 export default HomePage
 
 ```
+
+- BarChart
+
+```js
+
+import BarChart from 'react-vite-charts';
+import React from 'react'
+
+const HomePage = () => {
+    const chartData = {
+        React: {value: 20, color: '#61DAFB'},
+        Vite: {value: 20, color: '#646CFF'},
+        Tailwindcss: {value: 60, color: '#38BDF8'},
+    };
+  return (
+    <div>
+        <div className="md:grid grid-cols-3">
+            <BarChart data={chartData}/>
+        </div>
+    </div>
+  )
+}
+
+export default HomePage
+
+```
+
 
 ## Props
 
