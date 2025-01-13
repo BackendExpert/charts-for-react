@@ -85,9 +85,12 @@ export default HomePage
 
 ## Example ScreenShorts
 
+- PieChart
 <center>
     <img src='https://github.com/BackendExpert/charts-for-react/blob/master/assest/piechart.PNG'>
 </center>
+
+- BarChart
 <center>
     <img src='https://github.com/BackendExpert/charts-for-react/blob/v200/assest/BarChart.PNG'>
 </center>
